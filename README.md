@@ -19,7 +19,7 @@ Answer the following questions honestly. At the end, you'll get suggestions for 
    - [ ] I am open to leadership roles when needed
 
 4. **How is your schedule?
-   -[ ]Flexible
+   -[  ] Flexible
    -[ ] I'm mostly busy
    -[ ] I can do part time
 
