@@ -18,4 +18,14 @@ Answer the following questions honestly. At the end, you'll get suggestions for 
    - [ ] I prefer supporting others
    - [ ] I am open to leadership roles when needed
 
+4. **How is your schedule?
+   -[ ]Flexible
+   -[ ] I'm mostly busy
+   -[ ] I can do part time
+
+6. **How do u feel about working in teams?**
+   -[ ] I am team player
+   -[ ] I prefered working by myself
+   -[ ] I work better when i'm in a team
+   
 
