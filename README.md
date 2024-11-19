@@ -25,7 +25,7 @@ Answer the following questions honestly. At the end, you'll get suggestions for 
 
 6. **How do u feel about working in teams?**
    -[ ] I am team player
-   -[ ] I prefered working by myself
-   -[ ] I work better when i'm in a team
+   -[  ] I prefered working by myself
+   -[  ] I work better when i'm in a team
    
 
